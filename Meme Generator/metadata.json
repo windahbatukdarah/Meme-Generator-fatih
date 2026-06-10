@@ -1,6 +1,0 @@
-{
-  "name": "AI Meme Generator",
-  "description": "Upload images and let AI generate funny, context-aware captions for your memes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
